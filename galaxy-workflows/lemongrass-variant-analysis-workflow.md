@@ -8,7 +8,7 @@ The workflow was designed to identify genomic variants, predict their functional
 
 ## Workflow Diagram
 
-![Lemongrass Workflow](lemongrass%20workflow%20image.jpeg)
+![https://github.com/rebeccajoseph460-gene/genomicsfarmer/blob/main/galaxy-workflows/lemongrass%20workflow%20image.jpeg]
 
 *Figure 1. Galaxy workflow used for sequence alignment, variant calling, functional annotation, and candidate gene identification in Cymbopogon citratus.*
 
