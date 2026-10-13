@@ -2,11 +2,15 @@
 
 ## Overview
 
-This workflow documents the bioinformatics pipeline used to identify and annotate genomic variants in Cymbopogon citratus (lemongrass) using the Galaxy platform. To identify genomic variants, predict their functional effects, and characterize candidate genes potentially associated with secondary metabolism.
+This workflow documents the bioinformatics pipeline used to identify and annotate genomic variants in Cymbopogon citratus (lemongrass) using the Galaxy platform.
+
+The workflow was designed to identify genomic variants, predict their functional effects, and characterize candidate genes potentially associated with secondary metabolism and other important biological processes.
 
 ## Workflow Diagram
 
-![Workflow Overview](../images/lemongrass-workflow.png)
+![Lemongrass Workflow](lemongrass%20workflow%20image.jpeg)
+
+*Figure 1. Galaxy workflow used for sequence alignment, variant calling, functional annotation, and candidate gene identification in Cymbopogon citratus.*
 
 ## Input Data
 
