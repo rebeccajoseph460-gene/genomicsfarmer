@@ -41,7 +41,6 @@ I am passionate about applying genomics, bioinformatics, and sustainable agricul
 ## Current Projects
 -  Bioinformatics Research
 -  Azolla Production Development
--  Rabbit Enterprise Development
 -  Circular Farming Models
  
  ## Vision
