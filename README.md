@@ -32,15 +32,11 @@ I am passionate about applying genomics, bioinformatics, and sustainable agricul
 - Microsoft Excel
 
 ### Agriculture
-- Azolla Production Development
-- Rabbit Farming Development
 - Circular Farming Systems
 - Farm Planning
-- Farm City Iniative
 
 ## Current Projects
 -  Bioinformatics Research
--  Azolla Production Development
 -  Circular Farming Models
  
  ## Vision
